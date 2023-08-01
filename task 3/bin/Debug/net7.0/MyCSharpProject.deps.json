@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "MyCSharpProject/1.0.0": {
+        "runtime": {
+          "MyCSharpProject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyCSharpProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
