@@ -1,0 +1,60 @@
+/Users/tadaelshewaregagebre/MyCSharpProject/MyCSharpProject/bin/Debug/net7.0/MyCSharpProject
+/Users/tadaelshewaregagebre/MyCSharpProject/MyCSharpProject/bin/Debug/net7.0/MyCSharpProject.deps.json
+/Users/tadaelshewaregagebre/MyCSharpProject/MyCSharpProject/bin/Debug/net7.0/MyCSharpProject.runtimeconfig.json
+/Users/tadaelshewaregagebre/MyCSharpProject/MyCSharpProject/bin/Debug/net7.0/MyCSharpProject.dll
+/Users/tadaelshewaregagebre/MyCSharpProject/MyCSharpProject/bin/Debug/net7.0/MyCSharpProject.pdb
+/Users/tadaelshewaregagebre/MyCSharpProject/MyCSharpProject/obj/Debug/net7.0/MyCSharpProject.csproj.AssemblyReference.cache
+/Users/tadaelshewaregagebre/MyCSharpProject/MyCSharpProject/obj/Debug/net7.0/MyCSharpProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tadaelshewaregagebre/MyCSharpProject/MyCSharpProject/obj/Debug/net7.0/MyCSharpProject.AssemblyInfoInputs.cache
+/Users/tadaelshewaregagebre/MyCSharpProject/MyCSharpProject/obj/Debug/net7.0/MyCSharpProject.AssemblyInfo.cs
+/Users/tadaelshewaregagebre/MyCSharpProject/MyCSharpProject/obj/Debug/net7.0/MyCSharpProject.csproj.CoreCompileInputs.cache
+/Users/tadaelshewaregagebre/MyCSharpProject/MyCSharpProject/obj/Debug/net7.0/MyCSharpProject.dll
+/Users/tadaelshewaregagebre/MyCSharpProject/MyCSharpProject/obj/Debug/net7.0/refint/MyCSharpProject.dll
+/Users/tadaelshewaregagebre/MyCSharpProject/MyCSharpProject/obj/Debug/net7.0/MyCSharpProject.pdb
+/Users/tadaelshewaregagebre/MyCSharpProject/MyCSharpProject/obj/Debug/net7.0/MyCSharpProject.genruntimeconfig.cache
+/Users/tadaelshewaregagebre/MyCSharpProject/MyCSharpProject/obj/Debug/net7.0/ref/MyCSharpProject.dll
+/Users/tadaelshewaregagebre/MyCSharpProject/task 1/bin/Debug/net7.0/MyCSharpProject
+/Users/tadaelshewaregagebre/MyCSharpProject/task 1/bin/Debug/net7.0/MyCSharpProject.deps.json
+/Users/tadaelshewaregagebre/MyCSharpProject/task 1/bin/Debug/net7.0/MyCSharpProject.runtimeconfig.json
+/Users/tadaelshewaregagebre/MyCSharpProject/task 1/bin/Debug/net7.0/MyCSharpProject.dll
+/Users/tadaelshewaregagebre/MyCSharpProject/task 1/bin/Debug/net7.0/MyCSharpProject.pdb
+/Users/tadaelshewaregagebre/MyCSharpProject/task 1/obj/Debug/net7.0/MyCSharpProject.csproj.AssemblyReference.cache
+/Users/tadaelshewaregagebre/MyCSharpProject/task 1/obj/Debug/net7.0/MyCSharpProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tadaelshewaregagebre/MyCSharpProject/task 1/obj/Debug/net7.0/MyCSharpProject.AssemblyInfoInputs.cache
+/Users/tadaelshewaregagebre/MyCSharpProject/task 1/obj/Debug/net7.0/MyCSharpProject.AssemblyInfo.cs
+/Users/tadaelshewaregagebre/MyCSharpProject/task 1/obj/Debug/net7.0/MyCSharpProject.csproj.CoreCompileInputs.cache
+/Users/tadaelshewaregagebre/MyCSharpProject/task 1/obj/Debug/net7.0/MyCSharpProject.dll
+/Users/tadaelshewaregagebre/MyCSharpProject/task 1/obj/Debug/net7.0/refint/MyCSharpProject.dll
+/Users/tadaelshewaregagebre/MyCSharpProject/task 1/obj/Debug/net7.0/MyCSharpProject.pdb
+/Users/tadaelshewaregagebre/MyCSharpProject/task 1/obj/Debug/net7.0/MyCSharpProject.genruntimeconfig.cache
+/Users/tadaelshewaregagebre/MyCSharpProject/task 1/obj/Debug/net7.0/ref/MyCSharpProject.dll
+/Users/tadaelshewaregagebre/MyCSharpProject/oop/task 1/bin/Debug/net7.0/MyCSharpProject
+/Users/tadaelshewaregagebre/MyCSharpProject/oop/task 1/bin/Debug/net7.0/MyCSharpProject.deps.json
+/Users/tadaelshewaregagebre/MyCSharpProject/oop/task 1/bin/Debug/net7.0/MyCSharpProject.runtimeconfig.json
+/Users/tadaelshewaregagebre/MyCSharpProject/oop/task 1/bin/Debug/net7.0/MyCSharpProject.dll
+/Users/tadaelshewaregagebre/MyCSharpProject/oop/task 1/bin/Debug/net7.0/MyCSharpProject.pdb
+/Users/tadaelshewaregagebre/MyCSharpProject/oop/task 1/obj/Debug/net7.0/MyCSharpProject.csproj.AssemblyReference.cache
+/Users/tadaelshewaregagebre/MyCSharpProject/oop/task 1/obj/Debug/net7.0/MyCSharpProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tadaelshewaregagebre/MyCSharpProject/oop/task 1/obj/Debug/net7.0/MyCSharpProject.AssemblyInfoInputs.cache
+/Users/tadaelshewaregagebre/MyCSharpProject/oop/task 1/obj/Debug/net7.0/MyCSharpProject.AssemblyInfo.cs
+/Users/tadaelshewaregagebre/MyCSharpProject/oop/task 1/obj/Debug/net7.0/MyCSharpProject.csproj.CoreCompileInputs.cache
+/Users/tadaelshewaregagebre/MyCSharpProject/oop/task 1/obj/Debug/net7.0/MyCSharpProject.dll
+/Users/tadaelshewaregagebre/MyCSharpProject/oop/task 1/obj/Debug/net7.0/refint/MyCSharpProject.dll
+/Users/tadaelshewaregagebre/MyCSharpProject/oop/task 1/obj/Debug/net7.0/MyCSharpProject.pdb
+/Users/tadaelshewaregagebre/MyCSharpProject/oop/task 1/obj/Debug/net7.0/MyCSharpProject.genruntimeconfig.cache
+/Users/tadaelshewaregagebre/MyCSharpProject/oop/task 1/obj/Debug/net7.0/ref/MyCSharpProject.dll
+/Users/tadaelshewaregagebre/MyCSharpProject/day3/task 1/bin/Debug/net7.0/MyCSharpProject
+/Users/tadaelshewaregagebre/MyCSharpProject/day3/task 1/bin/Debug/net7.0/MyCSharpProject.deps.json
+/Users/tadaelshewaregagebre/MyCSharpProject/day3/task 1/bin/Debug/net7.0/MyCSharpProject.runtimeconfig.json
+/Users/tadaelshewaregagebre/MyCSharpProject/day3/task 1/bin/Debug/net7.0/MyCSharpProject.dll
+/Users/tadaelshewaregagebre/MyCSharpProject/day3/task 1/bin/Debug/net7.0/MyCSharpProject.pdb
+/Users/tadaelshewaregagebre/MyCSharpProject/day3/task 1/obj/Debug/net7.0/MyCSharpProject.csproj.AssemblyReference.cache
+/Users/tadaelshewaregagebre/MyCSharpProject/day3/task 1/obj/Debug/net7.0/MyCSharpProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tadaelshewaregagebre/MyCSharpProject/day3/task 1/obj/Debug/net7.0/MyCSharpProject.AssemblyInfoInputs.cache
+/Users/tadaelshewaregagebre/MyCSharpProject/day3/task 1/obj/Debug/net7.0/MyCSharpProject.AssemblyInfo.cs
+/Users/tadaelshewaregagebre/MyCSharpProject/day3/task 1/obj/Debug/net7.0/MyCSharpProject.csproj.CoreCompileInputs.cache
+/Users/tadaelshewaregagebre/MyCSharpProject/day3/task 1/obj/Debug/net7.0/MyCSharpProject.dll
+/Users/tadaelshewaregagebre/MyCSharpProject/day3/task 1/obj/Debug/net7.0/refint/MyCSharpProject.dll
+/Users/tadaelshewaregagebre/MyCSharpProject/day3/task 1/obj/Debug/net7.0/MyCSharpProject.pdb
+/Users/tadaelshewaregagebre/MyCSharpProject/day3/task 1/obj/Debug/net7.0/MyCSharpProject.genruntimeconfig.cache
+/Users/tadaelshewaregagebre/MyCSharpProject/day3/task 1/obj/Debug/net7.0/ref/MyCSharpProject.dll
