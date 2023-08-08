@@ -8,10 +8,12 @@ using TaskItemNameSpace;
 
 class CsvTaskManager
 {
-    private const string FilePath = "/Users/tadaelshewaregagebre/Desktop/sefr/cheru.csv";
+    
 
     public List<TaskItem> ReadTasksFromFile()
     {
+        Console.Write("Enter the file path: ");
+        string FilePath = Console.ReadLine();
         try
         {
             using (StreamReader reader = new StreamReader(FilePath, Encoding.UTF8))
@@ -53,6 +55,8 @@ class CsvTaskManager
 
     public async Task WriteTasksToFile(List<TaskItem> tasks)
     {
+        Console.Write("Enter the file path: ");
+        string FilePath = Console.ReadLine();
         try
         {
             using (StreamWriter writer = new StreamWriter(FilePath, false, Encoding.UTF8))
