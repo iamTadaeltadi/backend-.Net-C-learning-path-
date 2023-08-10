@@ -15,7 +15,8 @@ Users can add their posts and can also comment on blog posts.
 
 ## Endpoints
 The end-points of this application can be generally divided into two categories: [Post](#1-post) and [Comment](#2-comment).
-The end-points of this api are based on the REST architecture. The request and response formats are in JSON. They are described below. Then the end points will follow:
+The end-points of this api are based on the REST architecture. The request and response formats are in JSON. They are described below.
+the end points will follow:
 
 
 ## BlogManager Endpoints
