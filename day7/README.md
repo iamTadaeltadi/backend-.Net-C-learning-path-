@@ -19,59 +19,67 @@ The end-points of this api are based on the REST architecture. The request and r
 
 
 ## BlogManager Endpoints
-***request Format***
-POST /api/BlogManager/posts
-Content-Type: application/json
 
+#### Request Format
+```js
 {
-  "title": "New Blog Post",
-  "content": "This is the content of the new blog post."
+    "title": "string",
+    "content": "string",
 }
-***response Format***
+```
+
+#### Response Format
+```js
 {
   "postId": 123,
   "title": "New Blog Post",
   "content": "This is the content of the new blog post.",
   "comments": []
 }
+```
 ### GET /api/BlogManager/posts/{postId}
 Get details of a specific blog post by its ID.
 
 ### PUT /api/BlogManager/posts/{postId}
-
 Update a specific blog post by its ID.
 
 ### DELETE /api/BlogManager/posts/{postId}
-
 Delete a specific blog post by its ID.
 
 ## CommentManager Endpoints
 
 ***request Format***
+```js
 {
   "text": "This is a new comment for the blog post."
 }
+```
 ***response Format***
+```js
 {
+
   "commentId": 456,
   "text": "This is a new comment for the blog post."
 }
-### GET /api/CommentManager/posts/{postId}/comments
+```
 
+### GET /api/CommentManager/posts/{postId}/comments
 Get a list of comments for a specific blog post.
 
 
 ### POST /api/CommentManager/posts/{postId}/comments
-
 Create a new comment for a specific blog post.
+
 
 ### GET /api/CommentManager/comments/{commentId}
 
 Get details of a specific comment by its ID.
 
+
 ### PUT /api/CommentManager/comments/{commentId}
 
 Update a specific comment by its ID.
+
 
 ### DELETE /api/CommentManager/comments/{commentId}
 
